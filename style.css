@@ -1,0 +1,42 @@
+.demo{
+    background-color: rgba(47, 0, 255, 0.489);
+    display: flex;
+    justify-content: center;
+  
+    
+ 
+}
+.demo a{
+    margin: 10px;
+    color: rgb(254, 253, 253);
+    
+}
+body{
+    background-image: url("pexels-pluyar-786009.jpg");
+    background-size: cover;
+    background-position: center;
+   
+}
+.ss{
+    display: flex;
+    justify-content: center;
+    color: white;
+  
+  
+}
+.ss a{
+    color: white;
+}
+.ss div{
+    
+    padding: 50px;
+}
+
+    
+
+
+
+
+
+
+   

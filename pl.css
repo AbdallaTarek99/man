@@ -1,0 +1,15 @@
+.ww{
+    display: flex;
+    
+}
+h2{
+  padding:50px ;
+  padding-top: 0px;
+}
+h6{
+    display: flex;
+    justify-content: center;
+    padding: 250px;
+    font-size: larger;
+}
+
